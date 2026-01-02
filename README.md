@@ -16,6 +16,24 @@ The data for this project is sourced from the Kaggle dataset:
  ### Objective  :
  Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
+ ## Technologies Used
+
+- **SQL**  
+  Used for querying, filtering, aggregating, and analyzing Netflix movies and TV shows data.
+
+- **MySQL / PostgreSQL**  
+  Relational database systems used to store and manage the dataset efficiently.
+
+- **Kaggle Dataset**  
+  Source of the Netflix Movies and TV Shows dataset used for analysis.
+
+- **DBMS Concepts**  
+  Applied concepts such as joins, subqueries, grouping, filtering, and string functions.
+
+- **Data Analysis Techniques**  
+  Used to derive insights related to content distribution, ratings, countries, and keyword-based categorization.
+
+
 #### Findings and Conclusion:- 
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
